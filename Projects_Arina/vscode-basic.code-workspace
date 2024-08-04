@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "vscode-basic",
+			"path": "C:/Projects/vscode-basic"
+		},
+		{
+			"name": "Projects_Arina",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Projects_Arina"
+	}
+}
